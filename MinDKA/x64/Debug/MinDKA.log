@@ -1,0 +1,37 @@
+﻿  Source.cpp
+d:\visual studio\c++\mindka\mindka\source.cpp(90): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(132): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(163): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(185): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(189): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(192): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(194): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(235): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(237): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(283): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(293): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(457): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+d:\visual studio\c++\mindka\mindka\source.cpp(495): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\visual studio\c++\mindka\mindka\source.cpp(508): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\visual studio\c++\mindka\mindka\source.cpp(528): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\visual studio\c++\mindka\mindka\source.cpp(562): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(589): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(612): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(617): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(691): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(724): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(802): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(859): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(861): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(866): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(874): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(884): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(887): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(889): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(894): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\c++\mindka\mindka\source.cpp(934): warning C4018: <: несоответствие типов со знаком и без знака
+  MinDKA.vcxproj -> D:\Visual Studio\C++\MinDKA\x64\Debug\MinDKA.exe
